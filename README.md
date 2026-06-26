@@ -2,8 +2,7 @@
 
 > Autonomous AI support triage & resolution copilot — FlowZint AI Hackathon 2026
 
-<!-- Demo Video: [INSERT_YOUTUBE_LINK_HERE] -->
-<!-- Live URL: [INSERT_DEPLOYED_URL_HERE] (optional) -->
+**Demo Video:** https://drive.google.com/file/d/1ho3bc2FviKUCGxx3WMjsBA2Dnk6dBUDn/view?usp=drive_link
 
 ---
 
